@@ -50,6 +50,10 @@
           <option name="url" value="git@github.com:/panhaoyu/ebbinghaus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/panhaoyu/tonggan_cloud" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\wolf\work" />
