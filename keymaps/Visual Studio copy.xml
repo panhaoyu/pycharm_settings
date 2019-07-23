@@ -1,8 +1,10 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+    <mouse-shortcut keystroke="control button142" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+    <mouse-shortcut keystroke="control button143" />
   </action>
 </keymap>
