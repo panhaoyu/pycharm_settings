@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="verify_code" type="PLAIN_TEXT" />
       <mapping pattern="send_further_requests_like_scrapy" type="PLAIN_TEXT" />
       <mapping pattern="label" type="PLAIN_TEXT" />
       <mapping ext="p" type="PythonStub" />
